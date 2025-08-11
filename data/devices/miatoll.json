@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/miatoll/",
   "builds": [
     {
-      "version": "2.7",
-      "androidVersion": "15",
+      "version": "3.1",
+      "androidVersion": "16",
       "status": "Stable",
-      "date": "17-06-2025",
+      "date": "11-08-2025",
       "securityPatch": "June 2025",
-      "fileSize": "2.4 GB",
-      "md5": "fbdd6e32076c3cda5c647b2614288bb6",
-      "downloadUrl": "https://get.thecloverproject.com/folder/miatoll/2.x/2.7"
+      "fileSize": "2.6 GB",
+      "md5": "df27adcaf8975a50c98b4afd11635723",
+      "downloadUrl": "https://get.thecloverproject.com/folder/miatoll/3.x/3.1"
     }
   ],
   "installationGuide": {
@@ -59,6 +59,14 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.1",
+      "date": "11-08-2025",
+      "log": [
+        "Initial Android 16 release.",
+        "drop! Miui Camera & shift with Google Camera (Temporary purpose)."
+      ]
+    },
     {
       "version": "2.7",
       "date": "17-06-2025",
