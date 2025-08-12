@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/peridot/",
   "builds": [
     {
-      "version": "2.7",
-      "androidVersion": "15",
+      "version": "3.1",
+      "androidVersion": "16",
       "status": "Stable",
-      "date": "29-06-2025",
+      "date": "12-08-2025",
       "securityPatch": "June 2025",
-      "fileSize": "3.11 GB",
-      "md5": "c28c3d5d7df41504ce4180aeb91f5c93",
-      "downloadUrl": "https://get.thecloverproject.com/folder/peridot/2.x/2.7"
+      "fileSize": "3.3 GB",
+      "md5": "043da65d5499dc1acd401f7606dd3d01",
+      "downloadUrl": "https://get.thecloverproject.com/folder/peridot/3.x/3.1"
     }
   ],
   "installationGuide": {
@@ -59,6 +59,20 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.1",
+      "date": "12-08-2025",
+      "log": [
+        "Initial Android 16 Release",
+        "Imported QCOM audio effects from OnePlus 9R",
+        "SpeedUp Animation speed to 85%",
+        "Turned off SOFOD by default",
+        "Improveded Ram Management",
+        "Enabled Frame Pacing",
+        "Dropped Display Saturation Qs Tile",
+        "Applied Dex2oat Optimizations"
+      ]
+    },
     {
       "version": "2.7",
       "date": "29-06-2025",
