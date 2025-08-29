@@ -64,6 +64,15 @@
     },
     {
         "id": 8,
+        "name": "Nothing Phone 1",
+        "codename": "spacewar",
+        "brand": "Nothing",
+        "maintainer": "Aditya",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spacewar.png"
+    },
+    {
+        "id": 9,
         "name": "Nothing Phone 2",
         "codename": "pong",
         "brand": "Nothing",
@@ -72,7 +81,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/pong.png"
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Motorola G54/G64",
         "codename": "cancunf",
         "brand": "Motorola",
@@ -81,7 +90,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/cancunf.png"
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Poco F5",
         "codename": "marble",
         "brand": "Poco",
@@ -90,7 +99,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/marble.png"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Redmo Note 10 Pro",
         "codename": "sweet",
         "brand": "Redmi",
