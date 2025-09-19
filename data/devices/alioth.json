@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/alioth/",
   "builds": [
     {
-      "version": "2.5",
-      "androidVersion": "15",
+      "version": "3.2",
+      "androidVersion": "16",
       "status": "Stable",
-      "date": "17-04-2025",
-      "securityPatch": "April 2025",
-      "fileSize": "2.4 GB",
-      "md5": "acaff00cb73bd459b0c70ca7aa7b4750",
-      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/2.x/2.5"
+      "date": "19-09-2025",
+      "securityPatch": "September 2025",
+      "fileSize": "2.3 GB",
+      "md5": "a2f34c71bf8d772edb1ce6cdffe61a23",
+      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/3.x/3.2"
     }
   ],
   "installationGuide": {
@@ -60,50 +60,21 @@
   },
   "deviceChangelog": [
     {
-      "version": "2.5",
-      "date": "27-04-2025",
+      "version": "3.2",
+      "date": "19-09-2025",
       "log": [
-        "Cleanup OMX Dependencies for latest sources",
-        "sepolicy: Remove duplicate snxxx AIDL rules",
-        "Disable Chimera.GmsIntentOperationService and Disable collective Device administrators GMS components",
-        "Many more under-the-hood fixes and optimizations" 
-      ]
-    },
-    {
-      "version": "2.4",
-      "date": "27-03-2025",
-      "log": [
-        "Initial QPR2 Build",
-        "Address some manifests to fix hals",
-        "Build DSPVolumeSynchronizer",
-        "Enable torch intensity control",
-        "Update tetheroffload to version 1.1."
-      ]
-    },
-    {
-      "version": "2.3-Hotfix",
-      "date": "20-02-2025",
-      "log": [
-        "Move to Xiaomi fingerprint AIDL",
-        "Mute some ims logspam",
-        "Fix battery cycle count"
-      ]
-    },
-    {
-      "version": "2.3",
-      "date": "08-02-2025",
-      "log": [
-        "Enable scroll optimization",
-        "Optimize app background cache",
-        "Build libvndfwk_detect_jni.qti.vendor",
-        "Sync display properties with CodeLinaro"
-      ]
-    },
-    {
-      "version": "2.2",
-      "date": "30-01-2025",
-      "log": [
-        "Initial Release"
+        "Fixed WFD (Wireless Display)",
+        "Switch to Emanuel's HBM and DC Dimming implementation",
+        "New codec2 Dolby atoms from Sony (credit: @zenzer0s & @switchoff)",
+        "Switch To Fakedreamer Kernel (Non-Ksu) (credit: @KaminariKo)",
+        "Switch to Lieca 5.0 (credit: @johnmart19)",
+        "Enable ported CLO memory optimizations ",
+        "Disable backpressure propagation",
+        "Enable blur support",
+        "Improve Thermal Profiles and Per-app refresh rate appearance",
+        "Reduce AOD brightness",
+        "Silence some spammy logging",
+        "Many improvements underhood"
       ]
     }
   ]
