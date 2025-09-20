@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/pong/",
   "builds": [
     {
-      "version": "3.1",
+      "version": "3.2",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "18-08-2025",
-      "securityPatch": "July 2025",
+      "date": "20-09-2025",
+      "securityPatch": "September 2025",
       "fileSize": "2.6 GB",
-      "md5": "2bfd54af6ae3ca41db71d23472156411",
-      "downloadUrl": "https://get.thecloverproject.com/folder/pong/3.x/3.1"
+      "md5": "ea9b1646e4a3fc6a0df5011a4a8c19b3",
+      "downloadUrl": "https://get.thecloverproject.com/folder/pong/3.x/3.2"
     }
   ],
   "installationGuide": {
@@ -59,6 +59,14 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.2",
+      "date": "20-09-2025",
+      "log": [
+        "Remove Gamebar (Game Space Is Built In)",
+        "Built Simulated Nothing Charge Service"
+      ]
+    },
     {
       "version": "3.1",
       "date": "18-08-2025",
