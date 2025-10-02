@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/spacewar/",
   "builds": [
     {
-      "version": "3.1",
+      "version": "3.2",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "29-08-2025",
-      "securityPatch": "August 2025",
-      "fileSize": "2.6 GB",
-      "md5": "63a0a16ce636d91da4b3db7b4bb0c614",
-      "downloadUrl": "https://get.thecloverproject.com/folder/spacewar/3.x/3.1"
+      "date": "30-09-2025",
+      "securityPatch": "September 2025",
+      "fileSize": "2.5 GB",
+      "md5": "1823a5885a6ed8de835c6eb474f7b382",
+      "downloadUrl": "https://get.thecloverproject.com/folder/spacewar/3.x/3.2"
     }
   ],
 "installationGuide": {
@@ -91,6 +91,13 @@
   "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
 },
 "deviceChangelog": [
+  {
+    "version": "3.2",
+    "date": "30-09-2025",
+    "log": [
+      "Sync Latest Source Changes"
+    ]
+  },
   {
     "version": "3.1",
     "date": "29-08-2025",
