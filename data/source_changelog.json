@@ -1,5 +1,19 @@
 [
   {
+    "version": "3.3",
+    "date": "17-10-2025",
+    "log": [
+      "Android 16 October update (v3.3)",
+      "Updated new bootanimation (credit - Sreejith)",
+      "Enabled force monochrome icons",
+      "Added AOD on charge",
+      "Implemented new flash light strength control",
+      "Added new edge to edge fullscreen display feature",
+      "Added new fonts,iconpacks and app icons shapes customisation",
+      "Various under-the-hood bug fixes and optimizations"
+    ]
+  },
+  {
     "version": "3.2",
     "date": "19-09-2025",
     "log": [
