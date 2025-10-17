@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Blaze",
-    "role": "Roster Manager & Maintainer",
+    "role": "Roster Manager",
     "image": "https://avatars.githubusercontent.com/u/170931189?v=4",
     "github": "https://github.com/NotBlazeee28",
     "telegram": "https://t.me/NotBlazeee28"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Akshat",
-    "role": "Public Relations & Maintainer",
+    "role": "Public Relations",
     "image": "https://avatars.githubusercontent.com/u/91002031?v=4",
     "github": "https://github.com/Legendleo90",
     "telegram": "https://t.me/Legendleo90"
@@ -81,14 +81,6 @@
   },
   {
     "id": 11,
-    "name": "Dhanush",
-    "role": "Maintainer",
-    "image": "https://avatars.githubusercontent.com/u/106550362?v=4",
-    "github": "https://github.com/dhanush281",
-    "telegram": "https://t.me/solocaptainblaze"
-  },
-  {
-    "id": 12,
     "name": "Rayyan",
     "role": "Maintainer",
     "image": "https://avatars.githubusercontent.com/u/126084656?v=4",
@@ -96,11 +88,27 @@
     "telegram": "https://t.me/rayyan_x95"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Aditya",
     "role": "Maintainer",
     "image": "https://avatars.githubusercontent.com/u/115138168?v=4",
     "github": "https://github.com/adityayyy",
     "telegram": "https://t.me/Theannoyingcat"
+  },
+  {
+    "id": 13,
+    "name": "Farrukh",
+    "role": "Maintainer",
+    "image": "https://avatars.githubusercontent.com/u/59789349?v=4",
+    "github": "https://github.com/farrukh2002",
+    "telegram": "https://t.me/Farrukh2002"
+  },
+{
+    "id": 14,
+    "name": "Provasish",
+    "role": "Maintainer",
+    "image": "https://avatars.githubusercontent.com/u/82043200?v=4",
+    "github": "https://github.com/provasish",
+    "telegram": "https://t.me/provasishh"
   }
 ]

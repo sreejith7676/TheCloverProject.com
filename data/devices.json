@@ -13,8 +13,8 @@
         "name": "Poco F1",
         "codename": "beryllium",
         "brand": "Poco",
-        "maintainer": "Akshat",
-        "status": "Stable",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/beryllium.png"
     },
     {
@@ -49,8 +49,8 @@
         "name": "Xiaomi Pad 5",
         "codename": "nabu",
         "brand": "Xiaomi",
-        "maintainer": "RainZ",
-        "status": "Stable",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/nabu.png"
     },
     {
@@ -58,7 +58,7 @@
         "name": "Poco F6",
         "codename": "peridot",
         "brand": "Poco",
-        "maintainer": "Blaze",
+        "maintainer": "Farrukh",
         "status": "Stable",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/peridot.png"
     },
@@ -94,8 +94,8 @@
         "name": "Poco F5",
         "codename": "marble",
         "brand": "Poco",
-        "maintainer": "Dhanush",
-        "status": "Stable",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/marble.png"
     },
     {
