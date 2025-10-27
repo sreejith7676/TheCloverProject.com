@@ -5,20 +5,20 @@
   "tagline": "Experience the perfect blend of performance and customization with our Pixel-inspired custom ROM for your device.",
   "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/download/peridot.png",
   "maintainer": {
-    "name": "Blazeee",
-    "githubUrl": "https://github.com/NotBlazeee28"
+    "name": "Farrukh2002",
+    "githubUrl": "https://github.com/Farrukh2002"
   },
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/peridot/",
   "builds": [
     {
-      "version": "3.1",
+      "version": "3.3",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "12-08-2025",
-      "securityPatch": "June 2025",
-      "fileSize": "3.3 GB",
-      "md5": "043da65d5499dc1acd401f7606dd3d01",
-      "downloadUrl": "https://get.thecloverproject.com/folder/peridot/3.x/3.1"
+      "date": "27-10-2025",
+      "securityPatch": "October 2025",
+      "fileSize": "3.2 GB",
+      "md5": "ddf92c1c1632118d38acb9f2edcfd21f",
+      "downloadUrl": "https://get.thecloverproject.com/folder/peridot/3.x/3.3"
     }
   ],
   "installationGuide": {
@@ -59,6 +59,14 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.3",
+      "date": "27-10-2025",
+      "log": [
+        "Initial Release",
+        "Added Miui Camera"
+      ]
+    },
     {
       "version": "3.1",
       "date": "12-08-2025",
