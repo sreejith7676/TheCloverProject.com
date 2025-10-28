@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/sweet/",
   "builds": [
     {
-      "version": "3.1",
+      "version": "3.3",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "21-08-2025",
-      "securityPatch": "June 2025",
-      "fileSize": "2.77 GiB",
-      "md5": "7ba79f36e64b1f291bae8f1498885ae6",
-      "downloadUrl": "https://get.thecloverproject.com/folder/sweet/3.x/3.1"
+      "date": "26-08-2025",
+      "securityPatch": "Oct 2025",
+      "fileSize": "2.6 GiB",
+      "md5": "c0db64eb83c9ac37120fc945c68726f1",
+      "downloadUrl": "https://get.thecloverproject.com/folder/sweet/3.x/3.3"
     }
   ],
   "installationGuide": {
@@ -59,6 +59,15 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.3",
+      "date":"26-08-2025",
+      "log" :[
+        "Improved RAM management",
+        "Switched to Sony dolby",
+        "Switched to Spiteful Kernel"
+      ]
+    },
     {
       "version": "3.1",
       "date": "21-08-2025",
