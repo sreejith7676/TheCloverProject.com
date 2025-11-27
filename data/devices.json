@@ -100,7 +100,7 @@
     },
     {
         "id": 12,
-        "name": "Redmo Note 10 Pro",
+        "name": "Redmi Note 10 Pro",
         "codename": "sweet",
         "brand": "Redmi",
         "maintainer": "Rayyan",
@@ -109,11 +109,20 @@
     },
     {
         "id": 13,
-        "name": "Redmo Note 7 Pro",
+        "name": "Redmi Note 7 Pro",
         "codename": "violet",
         "brand": "Redmi",
         "maintainer": "RainZ",
         "status": "Stable",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/violet.png"
+    },
+    {
+        "id": 14,
+        "name": "Realme GT NEO 3T",
+        "codename": "spartan",
+        "brand": "Realme",
+        "maintainer": "Provasish",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spartan.png"
     }
 ]
