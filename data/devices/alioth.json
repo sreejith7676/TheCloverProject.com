@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/alioth/",
   "builds": [
     {
-      "version": "3.2",
+      "version": "3.4",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "19-09-2025",
-      "securityPatch": "September 2025",
+      "date": "28-11-2025",
+      "securityPatch": "November 2025",
       "fileSize": "2.3 GB",
-      "md5": "a2f34c71bf8d772edb1ce6cdffe61a23",
-      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/3.x/3.2"
+      "md5": "591ad259b023bd2fd4e6e216b608db62",
+      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/3.x/3.4"
     }
   ],
   "installationGuide": {
@@ -63,6 +63,22 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.4",
+      "date": "28-11-2025",
+      "log": [
+        "Switch to NoKernel",
+        "Enhance audio quality",
+        "Configure custom thermal",
+        "Enable QTI Memory Optimization",
+        "Define OEM fast charge sysfs node",
+        "Switch to AVC 3.1 for screen recording",
+        "parts: Move Thermal Settings to System",
+        "sepolicy: Adress some denials",
+        "Drop SSR blobs and set SSR restart_level in init.xiaomi.rc",
+        "Many improvements underhood"
+      ]
+    },
     {
       "version": "3.2",
       "date": "19-09-2025",
