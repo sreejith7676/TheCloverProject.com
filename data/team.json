@@ -103,7 +103,7 @@
     "github": "https://github.com/farrukh2002",
     "telegram": "https://t.me/Farrukh2002"
   },
-{
+  {
     "id": 14,
     "name": "Provasish",
     "role": "Maintainer",
@@ -111,4 +111,13 @@
     "github": "https://github.com/provasish",
     "telegram": "https://t.me/provasishh"
   }
+ ,
+  {
+    "id": 15,
+    "name": "Akky",
+    "role": "Maintainer",
+    "image": "https://avatars.githubusercontent.com/u/220152365?v=4",
+    "github": "https://github.com/Akkyhere",
+    "telegram": "https://t.me/akky_sharma"
+  } 
 ]

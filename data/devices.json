@@ -124,5 +124,14 @@
         "maintainer": "Provasish",
         "status": "Stable",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spartan.png"
+    },
+    {
+        "id": 15,
+        "name": "Motorola G82 5G",
+        "codename": "rhodep",
+        "brand": "Motorola",
+        "maintainer": "Akky",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/rhodep.png"
     }
 ]
