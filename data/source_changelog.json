@@ -1,5 +1,17 @@
 [
   {
+    "version": "3.7",
+    "date": "11-02-2026",
+    "log": [
+      "Fixed Google Photos spoofing",
+      "Added hide screen capture status feature",
+      "Unlocked Pixel 3 exclusive wallpaper",
+      "Improvement of flashlight strength control UX",
+      "Option to hide ADB and Developer setting status",
+      "Various under-the-hood bug fixes and optimizations"
+    ]
+  },
+  {
     "version": "3.6",
     "date": "29-01-2026",
     "log": [
