@@ -1,0 +1,74 @@
+{
+  "name": "Poco F4 / Redmi K40S",
+  "codename": "munch",
+  "brand": "Redmi & Poco",
+  "tagline": "Experience the perfect blend of performance and customization with our Pixel-inspired custom ROM for your device.",
+  "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/download/munch.png",
+  "maintainer": {
+    "name": "Olzhas0986",
+    "githubUrl": "https://github.com/Olzhas-Kdyr"
+  },
+  "olderBuildsUrl": "https://get.thecloverproject.com/folder/munch/",
+  "builds": [
+    {
+      "version": "3.7",
+      "androidVersion": "16",
+      "status": "Stable",
+      "date": "16-02-2026",
+      "securityPatch": "February 2026",
+      "fileSize": "2.46 GB",
+      "md5": "0062d4f98b517e59ca20e418a914b34c",
+      "downloadUrl": "https://get.thecloverproject.com/folder/munch/3.x/3.7"
+    }
+  ],
+  "installationGuide": {
+    "steps": [
+      {
+        "title": "Unlock Bootloader",
+        "description": "Ensure your device's bootloader is unlocked before proceeding."
+      },
+      {
+        "title": "Reboot To Fastboot",
+        "description": "Reboot to Fastboot by pressing Vol Down + Power Button."
+      },
+      {
+        "title": "Connection",
+        "description": "Open CMD or Terminal on your PC and connect your phone via USB."
+      },
+      {
+        "title": "Flash Boot Image",
+        "description": "Flash boot image by typing:<pre><code>fastboot flash boot boot.img</code></pre>"
+      },
+      {
+        "title": "Flash Vendor Boot Image",
+        "description": "Flash vendor boot image by typing:<pre><code>fastboot flash vendor_boot vendor_boot*.img </code></pre>"
+      },
+      {
+        "title": "Reboot To Recovery",
+        "description": "Reboot into Recovery typing:<pre><code>fastboot reboot recovery</code></pre>"
+      },
+      {
+        "title": "Wipe Data",
+        "description": "In recovery, click on factory reset and then do format data."
+      },
+      {
+        "title": "Flash Clover ROM",
+        "description": "Select apply update using sideload & install the ROM by typing:<pre><code>adb sideload CloverProject*.zip</code></pre>"
+      },
+      {
+        "title": "Reboot",
+        "description": "The first boot may take a few minutes. Enjoy Clover!"
+      }
+    ],
+    "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
+  },
+  "deviceChangelog": [
+    {
+      "version": "3.7",
+      "date": "16-02-2026",
+      "log": [
+        "Initial Official Release"
+      ]
+    }
+  ]
+}

@@ -142,5 +142,14 @@
         "maintainer": "sloppe",
         "status": "Stable",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/vayu.png"
+    },
+    {
+        "id": 17,
+        "name": "Poco F4",
+        "codename": "munch",
+        "brand": "Poco",
+        "maintainer": "Olzhas0986",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/munch.png"
     }
 ]
