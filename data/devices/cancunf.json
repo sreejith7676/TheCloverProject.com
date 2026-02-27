@@ -14,11 +14,11 @@
       "version": "3.7",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "23-02-2026",
+      "date": "27-02-2026",
       "securityPatch": "Feb 2026",
       "fileSize": "2.7 GB",
-      "md5": "5f6281e20e2ed75f88f61352777b16c4",
-      "downloadUrl": "https://get.thecloverproject.com/folder/cancunf/3.x/3.7"
+      "md5": "db41f34a7713ebd8deaff3b4dee7c36a",
+      "downloadUrl": "https://get.thecloverproject.com/folder/cancunf/3.x/3.7-HOTFIX"
     }
   ],
   "installationGuide": {
@@ -51,6 +51,20 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.7-HOTFIX",
+      "date": "27-02-2025",
+      "log": [
+        "Switch to OSS BT audio interfaces.",
+        "Switch to dummy libaedv.",
+        "Add EROFS compress hints for relevant partitions in super.",
+        "Drop ipsec_mon and netdagent HALs as they are redundant after killing RPS.",
+        "Apply dex2oat optimizations.",
+        "Rework powerhint based on Motorola's mtkpower hints.",
+        "Copy keystore permission for Keymint V1.",
+        "Stop building unneeded dependencies."
+      ]
+    },
     {
       "version": "3.7",
       "date": "23-02-2026",
