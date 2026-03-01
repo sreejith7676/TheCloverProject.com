@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/vayu/",
   "builds": [
     {
-      "version": "3.5",
+      "version": "3.7",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "14-12-2025",
-      "securityPatch": "Dec 2025",
-      "fileSize": "2.8 GiB",
-      "md5": "26622abbbea1b54e087bd69433fe7478",
-      "downloadUrl": "https://get.thecloverproject.com/folder/vayu/3.x/3.5"
+      "date": "01-03-2026",
+      "securityPatch": "Feb 2025",
+      "fileSize": "2.64 GiB",
+      "md5": "ec6fa3fb654a333ca653e7ec592ee8e2",
+      "downloadUrl": "https://get.thecloverproject.com/folder/vayu/3.x/3.7"
     }
   ],
   "installationGuide": {
@@ -51,6 +51,17 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.7",
+      "date": "01-03-2026",
+      "log": [
+        "kernel: Merge LineageOS upstream",
+        "Move to QTI WFD",
+        "Introduce a refreshrate tile",
+        "Opt out of speaker_layout_channel_mask field",
+        "Address some property denials"
+      ]
+    },
     {
       "version": "3.5",
       "date": "14-12-2025",
