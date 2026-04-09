@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/peridot/",
   "builds": [
     {
-      "version": "3.7",
+      "version": "3.8",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "18-02-2025",
-      "securityPatch": "February 2025",
-      "fileSize": "3.35 GB",
-      "md5": "91632462e1560bfeb9f71ad1634b004a",
-      "downloadUrl": "https://get.thecloverproject.com/folder/peridot/3.x/3.7"
+      "date": "19-04-2026",
+      "securityPatch": "March 2026",
+      "fileSize": "3.34 GB",
+      "md5": "e36ec22f9400f57da8b5d40f5689fae9",
+      "downloadUrl": "https://get.thecloverproject.com/folder/peridot/3.x/3.8"
     }
   ],
   "installationGuide": {
@@ -59,6 +59,18 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.8",
+      "date": "19-04-2026",
+      "log": [
+        "March 2026 QPR2 Source.",
+        "Add back High touch polling rate.",
+        "Drop Libperfmgr in favor of QTI.",
+        "Add Ulquiorra Manager.",
+        "Add device modes - Battery, Normal, Performance, Extreme.",
+        "Drop Local update option in clover updater(temp.)."
+      ]
+    },
     {
       "version": "3.7",
       "date": "18-02-2025",
