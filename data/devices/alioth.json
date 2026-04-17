@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/alioth/",
   "builds": [
     {
-      "version": "3.7",
+      "version": "3.9",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "11-02-2026",
-      "securityPatch": "February 2026",
+      "date": "18-04-2026",
+      "securityPatch": "April 2026",
       "fileSize": "2.34 GB",
-      "md5": "ecf9c5caa2ac6da1358e4f842f99d2e4",
-      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/3.x/3.7"
+      "md5": "1742b09f387aec2e272fdfca18de58f3",
+      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/3.x/3.9"
     }
   ],
   "installationGuide": {
@@ -63,6 +63,22 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.9",
+      "date": "18-04-2026",
+      "log": [
+        "Source Upstreamed"
+      ]
+    },
+    {
+      "version": "3.8",
+      "date": "23-03-2026",
+      "log": [
+        "Updated some prebuilts from HyperOS 1.0.5.0 Mi",
+        "Added missing display configs",
+        "Updated dolby blobs"
+      ]
+    },
     {
       "version": "3.7",
       "date": "11-02-2026",
